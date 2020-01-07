@@ -1,4 +1,4 @@
-# Slcm Scrapper
+# Slcm Scraper
 
 # Usage
 
